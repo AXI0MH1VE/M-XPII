@@ -24,7 +24,7 @@ export const processOperatorInput = (input) => {
   };
 };
 
-export const generateExecutionPlan = (summaryParams) => {
+export const generateExecutionPlan = () => {
   // This is triggered ONLY after explicit "Yes" from the Review Gate.
   return {
     type: 'execution_plan',
