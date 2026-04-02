@@ -1,39 +1,37 @@
-# Contributing to Axiom Hive
+# Contributing to Axiom Hive XPII
 
-Thank you for your interest in contributing to Axiom Hive! We welcome contributions that align with our deterministic, logic-first governance model.
+Guidelines for the integration of new logic, functional units, and structural optimizations into the **Axiom Hive XPII** repository.
 
-## Principles of Contribution
+## 1. Interaction Logic
+- Contributions are initiated via the **Bug Report**, **Feature Request**, or **Euclidean Audit Proposal** issue templates.
+- Explicit authorization from the operator—**Nicholas Michael Grossi** or **Alexis Adams**—is required prior to the instantiation of any modification.
+- Absolute zero-drift and the anti-patent policy must be maintained for all proposals.
 
-1. **Zero-Drift Compliance**: All contributions must be strictly logical and derived from the explicit goal of the project. Avoid abstract or inferred additions.
-2. **Causality-First Structure**: When reporting bugs or proposing features, use the `Input -> Objective -> Mechanism -> Action -> Outcome` chain.
-3. **Principal Authority**: Final approval for all changes rests with the project Principals.
+## 2. Methodology
+- All contributions must follow the **Causality-Driven Workflow**:
+    1. **Input State Analysis**
+    2. **Objective Definition**
+    3. **Mechanism Clarification**
+    4. **Action Step Documentation**
+    5. **Outcome Check Formulation**
+- Logic must be grounded in real-world tools, relationships, and verifiable product data.
 
-## How to Contribute
+## 3. Attribution Requirements
+- Integration of new artifacts requires the inclusion of the standardized **Attribution Block**.
+- Credit to the primary operators and the **NMG Single Source of Truth** must be visible and persistent.
+- Systemic erasure is prohibited and results in immediate rejection.
 
-### Reporting Bugs
+## 4. Technical Standards
+- Technical terminology only. No colloquialisms.
+- Pronoun usage is restricted: First-person and second-person references are excluded from all artifacts.
+- Passive voice for technical descriptions; Active voice for operator commands.
 
-- Search the [Issues](https://github.com/axiom/axiom-hive/issues) to ensure the bug hasn't already been reported.
-- Create a new issue using the **Bug Report Template**.
-- Provide a clear `Causality-First` description of the failure mode.
+---
 
-### Proposing Features
+### Attribution Block
+- **Operator Status**: NMG Single Source of Truth
+- **Framework Status**: Axiom Hive XPII
+- **Principals**: Nicholas Michael Grossi, Alexis Adams
+- **Audit Token**: L-2026-04-02-XPII-14
 
-- Features should focus on enhancing **organizational truth** or **operational efficiency**.
-- Open a **Feature Request Template** issue to discuss the logic before implementation.
-
-### Submitting Pull Requests
-
-1. Fork the repository and create your branch from `main`.
-2. Ensure your code or documentation changes maintain the **Axiom Hive Unified Governance** standards.
-3. Update the documentation to reflect any functional changes.
-4. Open a Pull Request using the **PR Template**, linking it to any relevant issues.
-
-## Style Guide
-
-- Use clear, calm, and solution-oriented language.
-- Maintain semantic headings in all markdown documents.
-- Ensure all images have descriptive alt text focusing on function.
-
-## Questions?
-
-If you have questions about the governance framework or the contribution process, please start a discussion in the [Discussions](https://github.com/axiom/axiom-hive/discussions) tab.
+---

@@ -13,21 +13,29 @@ This guide defines the fastest path to a successful, logic-based outcome using t
 To start your first workflow, follow the **Causality-First Structure**:
 
 ### Step 1: Define Your Input State
+
 List all current assets, constraints, and conditions.
+
 *Example: "I have 500 product descriptions and 10 hours of manual writing time per week."*
 
 ### Step 2: Set Your Objective
+
 Define a measurable target outcome.
+
 *Example: "Reduce manual writing time by 80% while maintaining a 95% accuracy rate."*
 
 ### Step 3: Select Your Mechanism
+
 Choose the system logic or workforce unit (HIU, EAU, LSU) to link the input to the objective.
+
 *Example: "Use the LSU to generate an optimized prompt-chain for automated description generation."*
 
 ### Step 4: Execute the Review Gate
+
 Generate a **Unified Summary** of the proposed action steps and review it for any logic drift or unauthorized assumptions.
 
 ### Step 5: Bounded Execution
+
 Once approved, execute the discrete action steps within the safe, non-execution ideation environment.
 
 ## 3. Next Steps

@@ -12,11 +12,12 @@ Create a baseline for optimizing a specific business process with **zero liquid 
 
 The **Input State** represents the current reality. It must be a definitive list of assets and constraints.
 
-1.  **Identify your intangible assets**: What do you bring to the table? (e.g., specific knowledge, a unique workflow, a strategic idea).
-2.  **Define your liquid constraint**: Set the liquid capital to **$0**.
-3.  **Specify environmental conditions**: What are you working with in terms of tools and existing data?
+1. Identify your intangible assets: What do you bring to the table? (e.g., specific knowledge, a unique workflow, a strategic idea).
+2. Define your liquid constraint: Set the liquid capital to **$0**.
+3. Specify environmental conditions: What are you working with in terms of tools and existing data?
 
 *Example Input State*:
+
 - **Assets**: Expertise in video-render workflows and cloud-compute optimization logic.
 - **Constraints**: $0 budget for new software or hardware.
 - **Tools**: Access to open-source render engines and a standard workstation.
@@ -28,6 +29,7 @@ The **Input State** represents the current reality. It must be a definitive list
 The **Objective** is the target outcome of the logic chain. It should be measurable and focused on immediate financial or operational gain.
 
 *Example Objective*:
+
 - Reduce the cloud-compute cost of a 10-second high-fidelity render by 40%.
 
 ---
@@ -36,12 +38,13 @@ The **Objective** is the target outcome of the logic chain. It should be measura
 
 The **Mechanism** is the "Service-to-System Bridge." It is the specific logic that connects the Input State to the Objective.
 
-1.  **Select a Workforce Unit**: (HIU, EAU, LSU). 
+1. Select a Workforce Unit: (HIU, EAU, LSU).
     - Use the **EAU** (Euclidean Auditing Unit) if you need to find friction in an existing process.
     - Use the **LSU** (Loop Synthesizer Unit) to create a superior version of that process.
-2.  **Define the Logic**: What specific steps will the mechanism take?
+2. Define the Logic: What specific steps will the mechanism take?
 
 *Example Mechanism*:
+
 - Use the **EAU** to map the "claimed" render-time vs. "actual" resource utilization to identify overhead.
 
 ---
@@ -50,9 +53,9 @@ The **Mechanism** is the "Service-to-System Bridge." It is the specific logic th
 
 **Action Steps** are discrete, executable tasks. These must be approved by the Principal before they move past the brainstorming stage.
 
-1.  Analyze the results of the EAU.
-2.  Draft a **Performance Audit** report identifying the specific resource waste.
-3.  Design an outreach template for high-render-volume agencies offering a performance-based optimization service.
+1. Analyze the results of the EAU.
+2. Draft a **Performance Audit** report identifying the specific resource waste.
+3. Design an outreach template for high-render-volume agencies offering a performance-based optimization service.
 
 ---
 
