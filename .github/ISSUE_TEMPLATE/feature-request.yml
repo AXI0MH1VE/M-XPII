@@ -1,0 +1,46 @@
+name: 🚀 Feature Request
+description: Propose a new functional unit or strategic enhancement.
+title: "[FEATURE] <Short Description>"
+labels: ["enhancement", "unit-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The **Axiom Hive XPII** framework allows for the ingestion of new operational units for organizational optimization.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Functional Objective
+      placeholder: "What new outcome will this unit deliver?"
+    validations:
+      required: true
+  - type: textarea
+    id: logic
+    attributes:
+      label: System Logic
+      description: What is the underlying causal chain of this feature?
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: Input State
+      description: What data or assets are required for this unit?
+    validations:
+      required: true
+  - type: textarea
+    id: mechanism
+    attributes:
+      label: Mechanism
+      description: How is the input linked to the objective?
+    validations:
+      required: true
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Principles
+      options:
+        - label: This unit maintains the zero-drift invariant.
+          required: true
+        - label: This unit adheres to the anti-patent policy.
+          required: true

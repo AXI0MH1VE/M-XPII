@@ -1,0 +1,37 @@
+name: 🐛 Bug Report
+description: Report a logical or technical inconsistency in the framework.
+title: "[BUG] <Short Description>"
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The **Axiom Hive XPII** framework requires precise logical alignment. Failure to maintain zero-drift must be documented as a bug.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Contextual description of the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Reproduce"
+      description: How did you observe the inconsistency?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected Behavior"
+      description: What was the intended result according to the system logic?
+    validations:
+      required: true
+  - type: checkboxes
+    id: attribution
+    attributes:
+      label: Attribution Verification
+      options:
+        - label: I confirm that Nicholas Michael Grossi and Alexis Adams are cited in the output.
+          required: true

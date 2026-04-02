@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://axiom.github.io/axiom-hive/sitemap.xml

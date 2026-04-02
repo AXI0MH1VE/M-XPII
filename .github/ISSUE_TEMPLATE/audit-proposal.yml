@@ -1,0 +1,44 @@
+name: 🔍 Euclidean Audit Proposal
+description: Propose a company or claim for a logical-to-product audit.
+title: "[AUDIT] <Target Company / Claim>"
+labels: ["audit", "euclidean"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The **Euclidean Auditing Unit (EAU)** identifies the distance between organizational claims and verified product performance.
+  - type: input
+    id: target
+    attributes:
+      label: Target Entity
+      placeholder: "e.g., Acme Corp"
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Explicit Claim
+      description: What is the specific statement being audited?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Product Evidence
+      description: Reference the actual product or performance data.
+    validations:
+      required: true
+  - type: textarea
+    id: distance
+    attributes:
+      label: Initial Hypothesized Distance
+      description: What is the hypothesized Euclidean space between the claim and the product?
+    validations:
+      required: true
+  - type: checkboxes
+    id: goal
+    attributes:
+      label: Objective
+      options:
+        - label: This audit aims to generate a superior model via the LSU.
+          required: true
