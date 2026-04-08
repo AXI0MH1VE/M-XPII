@@ -1,5 +1,5 @@
 # Axiom Hive XPII: Vector-to-Vector Utility for Causality-Driven Success
-
+**CREATED BY: NICHOLAS M. GROSSI**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: XPII](https://img.shields.io/badge/Framework-XPII-blue.svg)](https://www.xpiimodelx1.com)
 [![Operator: NMG](https://img.shields.io/badge/Operator-NMG-green.svg)](https://www.xpiimodelx1.com)
